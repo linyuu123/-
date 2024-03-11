@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub Responsbility\\-\\3122004621\\PersonHomwork1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55513E58-D252-483C-AC97-D2F4A2907352}|PersonHomwork1.vcxproj|E:\\GitHub Responsbility\\-\\3122004621\\PersonHomwork1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55513E58-D252-483C-AC97-D2F4A2907352}|PersonHomwork1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D91589-9CD0-44E1-983E-160C7ECA55CA}|..\\UnitTest\\UnitTest.vcxproj|E:\\GitHub Responsbility\\-\\3122004621\\UnitTest\\UnitTest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D91589-9CD0-44E1-983E-160C7ECA55CA}|..\\UnitTest\\UnitTest.vcxproj|E:\\GitHub Responsbility\\-\\3122004621\\UnitTest\\test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0D91589-9CD0-44E1-983E-160C7ECA55CA}|..\\UnitTest\\UnitTest.vcxproj|E:\\GitHub Responsbility\\-\\3122004621\\UnitTest\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "E:\\GitHub Responsbility\\-\\3122004621\\UnitTest\\pch.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest\\pch.cpp",
+              "ToolTip": "E:\\GitHub Responsbility\\-\\3122004621\\UnitTest\\pch.cpp",
+              "RelativeToolTip": "..\\UnitTest\\pch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T14:57:28.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "test.h",
+              "DocumentMoniker": "E:\\GitHub Responsbility\\-\\3122004621\\UnitTest\\test.h",
+              "RelativeDocumentMoniker": "..\\UnitTest\\test.h",
+              "ToolTip": "E:\\GitHub Responsbility\\-\\3122004621\\UnitTest\\test.h",
+              "RelativeToolTip": "..\\UnitTest\\test.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-03-11T14:57:20.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest.cpp",
+              "DocumentMoniker": "E:\\GitHub Responsbility\\-\\3122004621\\UnitTest\\UnitTest.cpp",
+              "RelativeDocumentMoniker": "..\\UnitTest\\UnitTest.cpp",
+              "ToolTip": "E:\\GitHub Responsbility\\-\\3122004621\\UnitTest\\UnitTest.cpp",
+              "RelativeToolTip": "..\\UnitTest\\UnitTest.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T14:57:03.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "E:\\GitHub Responsbility\\-\\3122004621\\PersonHomwork1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "E:\\GitHub Responsbility\\-\\3122004621\\PersonHomwork1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T14:55:56.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
