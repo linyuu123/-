@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs project\\homework1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3C96F7-5B56-4AFA-9749-AE7ED402A098}|homework1.vcxproj|D:\\vs project\\homework1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FB3C96F7-5B56-4AFA-9749-AE7ED402A098}|homework1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB605C5-644D-4C36-89AC-9AD68FC68BD5}|E:\\GitHub Responsbility\\-\\3122004621\\homework1\\UnitTest1\\UnitTest1.vcxproj|E:\\GitHub Responsbility\\-\\3122004621\\homework1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB605C5-644D-4C36-89AC-9AD68FC68BD5}|E:\\GitHub Responsbility\\-\\3122004621\\homework1\\UnitTest1\\UnitTest1.vcxproj|E:\\GitHub Responsbility\\-\\3122004621\\homework1\\UnitTest1\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "E:\\GitHub Responsbility\\-\\3122004621\\homework1\\UnitTest1\\pch.cpp",
+              "ToolTip": "E:\\GitHub Responsbility\\-\\3122004621\\homework1\\UnitTest1\\pch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T12:47:32.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\vs project\\homework1\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "D:\\vs project\\homework1\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T12:43:04.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "E:\\GitHub Responsbility\\-\\3122004621\\homework1\\UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "E:\\GitHub Responsbility\\-\\3122004621\\homework1\\UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-11T12:28:51.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
